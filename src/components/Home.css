@@ -1,0 +1,29 @@
+
+
+
+.hello-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tunnel-pic {
+    border-radius: 30%;
+    width: 45%;
+    margin: 1rem;
+}
+
+.hello-text-div {
+    width: 40%;
+    margin: 1rem;
+}
+
+
+.word-hello {
+    color: rgb(62,130,251);
+    font-size: 5vw;
+}
+
+.intro-text {
+    font-size: 4vw;
+}
